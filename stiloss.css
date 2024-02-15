@@ -1,0 +1,163 @@
+html,body{
+    padding: 0;
+    margin: 0;
+   
+}
+.part1{
+    padding: 3px;
+    display: inline;
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+}
+.gmail{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+   
+}
+.imagenes{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+.part1 button{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border: none;
+    background-color: #93baf9;
+}
+#grid{
+    height: 28px;
+    margin-left: 15px;
+    background-color: white;
+
+}
+.google{
+    padding-top: 112px;
+    background-color: #202124;
+    padding-bottom: 210px;
+    text-align: center;  
+  
+
+
+}
+#Foto{
+    width: 300px;
+    margin-bottom: 20px;
+}
+.caja{
+    border: 1px solid rgb(54, 52, 52);
+    margin: 0 485px;
+    height: 40px;
+    border-radius: 18px;
+
+}
+.caja input{
+    border: none; 
+    background-color: transparent;
+
+}
+.lupa{
+    width: 22px;
+    float: left;
+    margin-top: 8.5px;
+    margin-left: 10px;
+   
+}
+.camara{
+    width: 30px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.micr{
+    width: 30px;
+    float: right;
+    margin-top: 5px; 
+}
+.Detalle{
+    margin-top: 50px;
+    
+}
+.Detalle button{
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 17px;
+    padding-right: 17px;
+    margin-left: 12px;
+    font-size: 14px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #303134;
+    border: #303134;;
+}
+
+.boton1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1.8px;
+    padding-left: 28px;
+    font-size: 14px;
+    margin-top: 350px;
+    text-align: left;
+    color: white;
+    background-color: rgb(19, 19, 19);
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    
+}
+.boton2{
+    background-color: rgb(19, 19, 19);
+    padding-bottom: 60px;
+}
+.boton2 a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(19, 19, 19);
+    font-size: 14px;
+}
+.izquierda{
+    padding-top: 18px;
+    padding-left: 28px;
+    float: left;
+}
+.derecha{
+    float: right;
+    padding-top: 18px;
+    padding-right: 28px;
+}
+.d1{
+    margin-right: 22px;
+}
+.d2{
+    margin-right: 22px;
+}
+.d3{
+    margin-right: 22px;
+}
+.d4{
+    margin-right: 22px;
+}
+.d5{
+    margin-left: 22px;
+}
+.d6{
+    margin-left: 22px;
+}
+.d7{
+    margin-left: 22px;
+}
